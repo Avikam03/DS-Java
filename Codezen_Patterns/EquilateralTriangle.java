@@ -4,7 +4,7 @@
       * * *
      * * * *
 */
-package Patterns;
+package Codezen_Patterns;
 
 public class EquilateralTriangle {
     public static void main(String[] args) {

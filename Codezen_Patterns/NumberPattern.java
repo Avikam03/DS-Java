@@ -3,7 +3,7 @@
     233
     123
 */
-package Patterns;
+package Codezen_Patterns;
 
 public class NumberPattern {
     public static void main(String[] args) {

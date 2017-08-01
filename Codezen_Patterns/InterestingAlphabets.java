@@ -5,7 +5,7 @@
      BCDE
     ABCDE 
 */
-package Patterns;
+package Codezen_Patterns;
 
 public class InterestingAlphabets {
     public static void main(String[] args) {

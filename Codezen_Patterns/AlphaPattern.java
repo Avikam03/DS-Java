@@ -1,4 +1,4 @@
-package Patterns;
+package Codezen_Patterns;
 
 public class AlphaPattern {
     public static void main(String[] args) {

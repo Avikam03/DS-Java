@@ -6,7 +6,7 @@
     ****
 
  */
-package Patterns;
+package Codezen_Patterns;
 
 public class Triangle {
     public static void main(String[] args) {

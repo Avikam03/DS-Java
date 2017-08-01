@@ -3,7 +3,7 @@
      ABBA
       AA
 */
-package Patterns;
+package Codezen_Patterns;
 
 public class RepeatTriangle {
     public static void main(String[] args) {

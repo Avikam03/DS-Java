@@ -4,7 +4,7 @@
     11
     0
 */
-package Patterns;
+package Codezen_Patterns;
 
 public class BinaryPattern {
     public static void main(String[] args) {
